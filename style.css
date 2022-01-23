@@ -1,0 +1,27 @@
+body{
+    font-family: 'Neonderthaw', cursive;
+    font-family: 'Sedgwick Ave', cursive;
+    background-color: gold;
+    }
+    .header_div{
+        background: gold;
+        color: red;
+    }
+    .header_div p{
+        color: red;
+        font-weight: bolder;
+    }
+    .main_div button{
+        margin: 10px;
+        width: 100px;
+    }
+    .copy_right_footer{
+        position: fixed;
+        color: red;
+        bottom: 10px;
+        width: 100%;
+        background: gold;
+        text-align: center;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    }
+    
